@@ -62,6 +62,14 @@ The dashboard consists of 3 pages:
 
 ---
 
+## 📷 Dashboard Preview
+
+![Page 1](images/dashboard_page1.png)
+![Page 2](images/dashboard_page2.png)
+![Page 3](images/dashboard_page3.png)
+
+---
+
 ## 👩‍💻 Author
 
 Sandra — Data Analytics Project
