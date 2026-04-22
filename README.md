@@ -64,8 +64,13 @@ The dashboard consists of 3 pages:
 
 ## 📷 Dashboard Preview
 
+### 🟣 Executive Overview
 ![Page 1](images/dashboard_page1.png)
+
+### 🟦 Ratings Analysis
 ![Page 2](images/dashboard_page2.png)
+
+### 🟩 Publishing Insights
 ![Page 3](images/dashboard_page3.png)
 
 ---
